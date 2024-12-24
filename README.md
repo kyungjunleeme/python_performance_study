@@ -5,3 +5,5 @@
 - https://github.com/KimSoungRyoul/Naver-DAN2024-optimize-inference-performance?tab=readme-ov-file
 - https://stackoverflow.com/questions/472000/usage-of-slots
 - http://latentflip.com/loupe/?code=!!!
+- https://www.youtube.com/watch?v=b0kFuRho27U&t=1189s
+- https://www.youtube.com/watch?v=Dy0ZcaN35cA  # leetcode
