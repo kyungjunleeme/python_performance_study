@@ -7,3 +7,4 @@
 - http://latentflip.com/loupe/?code=!!!
 - https://www.youtube.com/watch?v=b0kFuRho27U&t=1189s
 - https://www.youtube.com/watch?v=Dy0ZcaN35cA  # leetcode
+- https://www.youtube.com/watch?v=zAvWv_Wi0z0
